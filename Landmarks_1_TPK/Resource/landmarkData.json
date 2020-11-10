@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Jacob's Dream",
+        "category": "Site",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude": -99.70639647358605 ,
+            "latitude": 32.46861241298797
+        },
+        "imageName": "jacobsDream"
+    },
+    {
+        "name": "Anthony Stadium",
+        "category": "Sports Complex",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude":  -99.70898495472233,
+            "latitude": 32.47355393103122
+        },
+        "imageName": "acuStadium"
+    },
+    {
+        "name": "Mabee Business Building",
+        "category": "Building",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude": -99.70713280111482,
+            "latitude": 32.4678918793979
+        },
+        "imageName": "mabee"
+    },
+    {
+        "name": "Abilene Zoological Park",
+        "category": "Zoo",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Grover Nelson Park",
+        "coordinates": {
+            
+            "longitude": -99.69047929364613,
+            "latitude": 32.44146203839868
+        },
+        "imageName": "zoo"
+    },
+    {
+        "name": "Clay Sports",
+        "category": "Shooting Range",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Abilene Shooting Range",
+        "coordinates": {
+            "longitude": -99.73690484075523,
+            "latitude": 32.36310705417576
+        },
+        "imageName": "claySport"
+    },
+    {
+        "name": "Mile High Stadium",
+        "category": "Sports Complex",
+        "city": "Denver",
+        "state": "Colorado",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Empower Field",
+        "coordinates": {
+            "longitude": -105.02017377525897,
+            "latitude": 39.74407096852196
+        },
+        "imageName": "mileHigh"
+    },
+    {
+        "name": "Temple Square",
+        "category": "Site",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Downtown Salt Lake",
+        "coordinates": {
+            "longitude": -111.8848146447171,
+            "latitude": 40.7970665114575
+        },
+        "imageName": "templeSquare",
+    },
+    {
+        "name": "Salt Lake City",
+        "category": "Featured",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Salt Lake City",
+        "coordinates": {
+            "longitude": -111.89105025821759,
+            "latitude": 40.76057991679937
+        },
+        "imageName": "slc"
+    },
+    {
+        "name": "Spanish Fork Gun Club",
+        "category": "Shooting Range",
+        "city": "Spanish Fork",
+        "state": "Utah",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Spanish Fork Resivor",
+        "coordinates": {
+            "longitude": -111.60360796085948,
+            "latitude": 40.072507949048294
+        },
+        "imageName": "sfGunClub"
+    },
+    {
+        "name": "Glade's Drive Inn",
+        "category": "Resturant",
+        "city": "Spanish Fork",
+        "state": "Utah",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Downtown Spanish Fork",
+        "coordinates": {
+            "longitude": -111.65506770274091,
+            "latitude": 40.1063307183001
+        },
+        "imageName": "glades"
+    },
+    {
+        "name": "Mi Casa",
+        "category": "Home",
+        "city": "Spanish Fork",
+        "state": "Utah",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Spanish Fork",
+        "coordinates": {
+            "longitude": -111.62665737161126,
+            "latitude": 40.08788802087641
+        },
+        "imageName": "home"
+    },
+    {
+        "name": "Badger Stadium",
+        "category": "Sports Complex",
+        "city": "Ephraim",
+        "state": "Utah",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Snow College",
+        "coordinates": {
+            "longitude": -111.57786100150938,
+            "latitude": 39.36078402603044
+        },
+        "imageName": "snowBadger"
+    }
+]
